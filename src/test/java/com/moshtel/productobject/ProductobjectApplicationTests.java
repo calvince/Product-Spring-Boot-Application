@@ -1,0 +1,13 @@
+package com.moshtel.productobject;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProductobjectApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
